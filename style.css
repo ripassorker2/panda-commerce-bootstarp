@@ -1,0 +1,17 @@
+.slide-background-color {
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+
+.watch-bag-img-size img {
+    height: 150px;
+}
+
+.all-button {
+    background-color: rgb(238, 43, 196);
+    color: white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-weight: bold;
+
+}
